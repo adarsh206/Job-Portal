@@ -4,7 +4,7 @@ Build a fully responsive Job Portal App with MERN Stack & with the help of  Tail
 # Description:
 
 1. This is job portal application where you can find and post job according to your choice.
-2. Good navigation section is there where you can go to different section of the app like post a job, salary estimate, home etc.
+2. Good navigation section is there where you can go to different section of the app like Home, Post a job, salary estimate, My Job etc.
 3. There is 3 section in the home page like fiter section where you can filter your job based on different requirement, available job and connection to people and admin of the site.
 4. You can filter you job based on location, salary, experience level, technology, job type and many more.
 5. You can scroll to down to see all the jobs in the page.
@@ -24,7 +24,7 @@ Build a fully responsive Job Portal App with MERN Stack & with the help of  Tail
 19. Then see the description of the job and then upload you resume in the resume section and after that press ok to submit the details to apply for that particular job.
 20. In the single page view you will the email of the recuriter you can also connect with that for better connection and faster response.
 21. In the single page you will every details of that job like title, salary, role, experience level, description and many more.
-22. In this section will find 3 section like benefits, future growth and comapnay profile.
+22. In this section will find 3 section like benefits, future growth and outline.
 
 
 
