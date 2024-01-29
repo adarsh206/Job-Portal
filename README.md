@@ -26,6 +26,7 @@ Build a fully responsive Job Portal App with MERN Stack & with the help of  Tail
 21. In the single page you will every details of that job like title, salary, role, experience level, description and many more.
 22. In this section will find 3 section like benefits, future growth and outline.
 23. In the upper section one hero page is there for single job description along with other details.
+24. And in the below job details is there like job type, salary, emial of the client, job description, experience type, job title and other details too.
 
 
 
