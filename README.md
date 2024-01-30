@@ -27,6 +27,15 @@ Build a fully responsive Job Portal App with MERN Stack & with the help of  Tail
 22. In this section will find 3 section like benefits, future growth and outline.
 23. In the upper section one hero page is there for single job description along with other details.
 24. And in the below job details is there like job type, salary, emial of the client, job description, experience type, job title and other details too.
+25. One cover section is there where you can write cover letter to recuriter.
+26. In the salary estimate section every job is focused baseed on salary and have placed in grid view for better user experience.
+27. In the my job section particular job is there which you have applied for or have worked for.
+28. In this also pagination have done so you will only see the 4 job in one page and for the rest you have to click on next or previous button to see.
+29. You can also edit or delete you job in this section.
+30. One search section is also there where you can search your job.
+31. In the post a job section you can post a job with every details.
+32. Anyone can post a job whether they are any company or person.
+ 
 
 
 
