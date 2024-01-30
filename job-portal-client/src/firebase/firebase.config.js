@@ -5,7 +5,7 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  Your API KEYS & PASSWORD
+   // Your API KEY AND PASSWORD
 };
 
 // Initialize Firebase

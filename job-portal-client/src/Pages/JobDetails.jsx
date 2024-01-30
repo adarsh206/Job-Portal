@@ -30,20 +30,20 @@ const JobDetails = () => {
 
     const handleApply = async() => {
         const { value: file } = await Swal.fire({
-            title: "Select image",
+            title: "Select file",
             input: "file",
             inputAttributes: {
               "accept": "image/*",
-              "aria-label": "Upload your profile picture"
+              "aria-label": "Upload your file"
             }
           });
           if (file) {
             const reader = new FileReader();
             reader.onload = (e) => {
               Swal.fire({
-                title: "Your uploaded picture",
+                title: "Your uploaded file",
                 imageUrl: e.target.result,
-                imageAlt: "The uploaded picture"
+                imageAlt: "The uploaded file"
               });
             };
             reader.readAsDataURL(file);
