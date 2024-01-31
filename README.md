@@ -11,7 +11,7 @@ Build a fully responsive Job Portal App with MERN Stack & with the help of  Tail
 6. In one page you can see only 6 jobs for other jobs you have to go the next page by clicking on the next button.
 7. And for going back you can click on the previous button.
 8. I have done pagination so only 6 jobs will be there in one page only so it looks good.
-9. In the right side connection section is there where you can connect to admin of the site and also subscribe for faster response.
+9. In the right side connection section is there where you can connect to admin of the site by uploading your resume and also subscribe for faster response.
 10. You can also search your job based on job title along with location.
 11. Firebase is used for authentication.
 12. You can login and signup with your google account.
@@ -35,7 +35,9 @@ Build a fully responsive Job Portal App with MERN Stack & with the help of  Tail
 30. One search section is also there where you can search your job.
 31. In the post a job section you can post a job with every details.
 32. Anyone can post a job whether they are any company or person.
-33. In one particular job in main page every details is given like companyName, comapnayLogo, JobTitle, salary, location, jobdate, jobType and job description along with it's symbol. 
+33. In one particular job in main page every details is given like companyName, comapnayLogo, JobTitle, salary, location, jobdate, jobType and job description along with it's symbol.
+34. When you will click the Login button you get into login page where you can login and logout both are there in one page.
+35. In the footer section you will find the other details of the site.
  
 
 
