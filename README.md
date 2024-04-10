@@ -39,6 +39,16 @@ Build a fully responsive Job Portal App with MERN Stack & with the help of  Tail
 34. When you will click the Login button you get into login page where you can login and logout both are there in one page.
 35. In the footer section you will find the other details of the site.
  
+# Images:
+
+![image](https://github.com/adarsh206/Job-Portal/assets/76390366/259cc656-d62b-4e3a-8d13-d6dfef1c89d3)
+![image](https://github.com/adarsh206/Job-Portal/assets/76390366/0eda3154-849c-4fb7-8102-9eafdd5b2e80)
+![image](https://github.com/adarsh206/Job-Portal/assets/76390366/0816d28f-2ade-4da1-9d92-6026c834788a)
+![image](https://github.com/adarsh206/Job-Portal/assets/76390366/751440de-d5da-422a-a776-28c69adb3c0a)
+![image](https://github.com/adarsh206/Job-Portal/assets/76390366/56c8b9f2-7c1a-4aa9-906a-4a33b4a4914d)
+![image](https://github.com/adarsh206/Job-Portal/assets/76390366/3cecd387-4ba5-4034-96ce-93912125676e)
+![image](https://github.com/adarsh206/Job-Portal/assets/76390366/6d90e184-2fb3-43bc-8adc-307303ac713b)
+![image](https://github.com/adarsh206/Job-Portal/assets/76390366/13dbabf9-152d-4b7c-bea0-6d50f5051c63)
 
 
 
