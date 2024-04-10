@@ -10,8 +10,6 @@ require('dotenv').config()
 app.use(express.json());
 app.use(cors())
 
-//users : addy2061998
-//pass : wnLOSALBLpPLuqEH
 
 const { MongoClient, ServerApiVersion, ObjectId } = require('mongodb');
 const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASSWORD}@job-portal.zvkifzl.mongodb.net/?retryWrites=true&w=majority`;
